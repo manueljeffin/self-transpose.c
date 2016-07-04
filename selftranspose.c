@@ -39,7 +39,7 @@ int main(void) {
 			}
 		}
 	}
-	for(i=0;i<columns;i++)
+	for(i=0;i<columns;i++) //first column as any way, transpose
 	{
 		for(j=0;j<rows;j++)
 		{
